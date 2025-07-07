@@ -8,6 +8,22 @@ This project implements a deep learning model based on multimodal feature fusion
 - **Conscientiousness** 
 
 **We achieved 1st place in AVI Challenge 2025 Track1: Personality Assessment!** This repository contains our code structure.
+| **Team Name**       | **MSE (↓)** |
+|---------------------|--------------------|
+| **HFUT-VisionXL**    | **0.12542 (1)**    |
+| Jezoid               | 0.13724 (2)        |
+| CAS-MAIS             | 0.14351 (3)        |
+| The innovators       | 0.14492 (4)        |
+| ABC-Lab              | 0.16770 (5)        |
+| Winner-Team          | 0.18909 (6)        |
+| HSEmotion            | 0.19731 (7)        |
+| abhisheksingh        | 0.19779 (8)        |
+| DERS                 | 0.20612 (9)        |
+| DERS                 | 0.20674 (10)       |
+| USTC-IAT-United      | 0.22914 (11)       |
+| HandX                | 0.23824 (12)       |
+| wjno1                | 0.24358 (13)       |
+| gkdx2                | 1.89703 (14)       |
 
 
 ## 🏗️ Project Structure
