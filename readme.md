@@ -80,7 +80,7 @@ python -m pip install -r requirements.txt
 ### 1. 📋 Data Preparation
 
 Downloaded features are required for training and testing. The dataset includes audio, video, and text features extracted from the AVI Challenge 2025 dataset.
-Baidu Cloud link for downloading the features: [Baidu Cloud](https://pan.baidu.com/s/1J2b0g3k4Z5a9d8e9f8g88g) (Password: `avi2025`)
+Baidu Cloud link for downloading the features: [BaiduNetdisk](https://pan.baidu.com/s/1BOjZHEz8iXpwt5DbT2pYQQ) (Password: `PEPR`)
 
 Ensure data file paths are correctly configured:
 ```bash
