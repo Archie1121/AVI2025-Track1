@@ -10,7 +10,7 @@ This project implements a deep learning model based on multimodal feature fusion
 **We achieved 1st place in AVI Challenge 2025 Track1: Personality Assessment!** This repository contains our code structure.
 | **Team Name**       | **MSE (↓)** |
 |---------------------|--------------------|
-| **HFUT-VisionXL**    | **0.12542 (1)**    |
+| **HFUT-VisionXL**    | **0.12284 (1)**    |
 | Jezoid               | 0.13724 (2)        |
 | CAS-MAIS             | 0.14351 (3)        |
 | The innovators       | 0.14492 (4)        |
