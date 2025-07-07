@@ -46,16 +46,16 @@ git clone url_to_your_repository
 cd AVI-track1
 ```
 
-# Step 1: Create a new conda environment with Python 3.10 (or your preferred version)
+### Step 1: Create a new conda environment with Python 3.10 (or your preferred version)
 conda create -n avi2025 python=3.10 -y
 
-# Step 2: Activate the environment
+### Step 2: Activate the environment
 conda activate avi2025
 
-# Step 3: Install pip (if not already installed)
+### Step 3: Install pip (if not already installed)
 conda install pip
 
-# Step 4: Install dependencies from requirements.txt
+### Step 4: Install dependencies from requirements.txt
 python -m pip install -r requirements.txt
 
 ## 🚀 Quick Start
