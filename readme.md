@@ -58,7 +58,7 @@ AVI-track1/
 
 ## ⚙️ Environment Requirements
 ```bash
-git clone url_to_your_repository
+git clone https://github.com/Archie1121/AVI2025-Track1.git
 cd AVI-track1
 ```
 
